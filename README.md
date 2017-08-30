@@ -1,2 +1,2 @@
 # hello-world
-Just a practice repository 
+Hi!  I'm a mathematician, and I'm interested in learning data science.  This is my first experiment with github. 
